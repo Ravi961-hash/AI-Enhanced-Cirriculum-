@@ -1,0 +1,77 @@
+body {
+
+  font-family: sans-serif;
+
+  padding: 20px;
+
+  background: #f9fafb;
+
+}
+
+.container {
+
+  max-width: 900px;
+
+  margin: auto;
+
+}
+
+h1 {
+
+  text-align: center;
+
+}
+
+.semester {
+
+  background: #ffffff;
+
+  border: 1px solid #ddd;
+
+  margin-bottom: 20px;
+
+  border-radius: 10px;
+
+  padding: 15px;
+
+}
+
+.semester h2 {
+
+  cursor: pointer;
+
+  color: #2563eb;
+
+}
+
+.course, .niat, .project {
+
+  margin-left: 15px;
+
+  margin-top: 10px;
+
+}
+
+.topics {
+
+  list-style-type: disc;
+
+  margin-left: 20px;
+
+}
+
+.course-title {
+
+  cursor: pointer;
+
+  font-weight: bold;
+
+  color: #111827;
+
+}
+
+.hidden {
+
+  display: none;
+
+}
